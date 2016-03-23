@@ -1,4 +1,0 @@
-i am using git
-git is a distributed version management system
-we all prefer it
-
